@@ -1,4 +1,4 @@
 # Tesla
 Tesla clone website
 link for Tesla website
-https://github.com/Rahman1712/Tesla
+https://rahman1712.github.io/Tesla/
